@@ -1,0 +1,3 @@
+cd C:\Users\30694\Documents\GitHub\DataFolder
+git remote add origin https://github.com/Kalman94/DataFolder.git
+git pull -u origin master
